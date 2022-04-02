@@ -9,7 +9,7 @@
 <ul>
 
 <li>
-<br><strong>Function name</strong>
+<strong>Function name</strong>
 ft_substr
 <br><strong>Prototype</strong>
 char *ft_substr(char const *s, unsigned int start,
@@ -32,7 +32,7 @@ a pour taille maximale ’len’
 </li>
 <br>
 <li>
-<br><strong>Function name</strong>
+<strong>Function name</strong>
 ft_strjoin
 <br><strong>Prototype</strong>
 char *ft_strjoin(char const *s1, char const *s2);
