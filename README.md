@@ -29,7 +29,7 @@ Alloue (avec malloc(3)) et retourne une chaine de
 caractères issue de la chaine donnée en argument
 Cette nouvelle chaine commence à l’index ’start’ et
 a pour taille maximale ’len’
-<li>
+</li>
 
 <li>
 <br><strong>Function name</strong>
