@@ -30,7 +30,7 @@ caractères issue de la chaine donnée en argument
 Cette nouvelle chaine commence à l’index ’start’ et
 a pour taille maximale ’len’
 </li>
-
+<br>
 <li>
 <br><strong>Function name</strong>
 ft_strjoin
@@ -48,7 +48,7 @@ malloc
 Alloue (avec malloc(3)) et retourne une nouvelle
 chaine, résultat de la concaténation de s1 et s2.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_strtrim
@@ -68,7 +68,7 @@ chaine de caractères donnée en argument, sans les
 caractères spécifiés dans le set donné en argument
 au début et à la fin de la chaine de caractères.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_split
@@ -89,7 +89,7 @@ de chaines de caracteres obtenu en séparant s à
 l’aide du caractère c, utilisé comme délimiteur. Le
 tableau doit être terminé par NULL.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_ito
@@ -107,7 +107,7 @@ Alloue (avec malloc(3)) et retourne une chaine de
 caractères représentant l’integer reçu en argument.
 Les nombres négatifs doivent être gérés.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_strmapi
@@ -129,7 +129,7 @@ chaine de caractères passée en argument pour créer
 une nouvelle chaine de caractères (avec malloc(3))
 résultant des applications successives de f.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_putchar_fd
@@ -145,7 +145,7 @@ write
 <br><strong>Description</strong>
 Écrit le caractère c sur le file descriptor donné.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_putstr_fd
@@ -162,7 +162,7 @@ write
 Écrit la chaine de caractères s sur le file
 descriptor donné.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_putendl_fd
@@ -179,7 +179,7 @@ write
 Écrit La chaine de caractères s sur le file
 descriptor donné, suivie d’un retour à la ligne.
 </li>
-
+<br>
 <li>
 <strong>Function name</strong>
 ft_putnbr_fd
@@ -195,5 +195,5 @@ write
 <br><strong>Description</strong>
 Écrit l’integer n sur le file descriptor donné.
 </li>
-
+<br>
 </ul>
